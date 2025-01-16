@@ -1,7 +1,7 @@
 # RealDepthDataset
 
-It basically contains a RGB-D dataset of challenging scenes collected from the real world. 
+It basically contains an RGB-D dataset of challenging scenes collected from the real world. 
 
-It is now still under construction. 
+We uploaded the raw data and aligned data for this test set. 
 
-Welcome to pay a visit afterwards. 
+Hope it could help with your models' inference. 
